@@ -1,7 +1,6 @@
 """Created by Pau Cava"""
 
 """UTILITIES"""
-from numbers import Number
 import socket
 import os
 import subprocess
