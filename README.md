@@ -1,3 +1,3 @@
-# Electron-terminal-
-A terminal made by a dummy.
-Made by Pau Cava.
+## Electron-terminal-
+This program is created by Pau Cava. Copyright 2021 - 2022
+***
